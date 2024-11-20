@@ -11,13 +11,18 @@
         <version>2.7.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
+
     <groupId>com.yupi</groupId>
     <artifactId>chenapi-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>chenapi-backend</name>
+
     <properties>
         <java.version>1.8</java.version>
     </properties>
+
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
